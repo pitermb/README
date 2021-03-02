@@ -2,11 +2,10 @@
 
 <h3> :man: &nbsp;Sobre mim</h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **ANALISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.unicesumar.edu.br">UNICESUMAR</a>.
-- 💼 &nbsp; Procurando emprego como 
-  **FRONT-END/BACK-END/FULLSTACK**
-- 🌱 &nbsp; Aprendendo mais sobre **JAVASCRIPT/REACT/NODEJS**.
+- 🤔 &nbsp; Explorando novas tecnologias <br/> Desenvolvendo soluções de software.
+- 🎓 &nbsp; Estudando **ANALISE E DESENVOLVIMENTO DE SISTEMAS** <br/> <a href="https://www.unicesumar.edu.br">UNICESUMAR</a>.
+- 💼 &nbsp; Procurando emprego como <br/> **FRONT-END/BACK-END/FULLSTACK**
+- 🌱 &nbsp; Aprendendo mais sobre <br/> **JAVASCRIPT/REACT/NODEJS**.
 
 <h3> :rocket: &nbsp;Minhas Skills</h3>
 
