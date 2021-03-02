@@ -1,13 +1,13 @@
-![](https://komarev.com/ghpvc/?username=pitermb&color=006bed)
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador pitermb">
 
-<h3> :man: &nbsp;Sobre mim </h3>
+<h3> :man: &nbsp;Sobre mim</h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **ANALISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.unicesumar.edu.br">UNICESUMAR</a>.
 - 💼 &nbsp; Procurando emprego como **FRONT-END/BACK-END/FULLSTACK**
 - 🌱 &nbsp; Aprendendo mais sobre **JAVASCRIPT/REACT/NODEJS**.
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> :rocket: &nbsp;Minhas Skills</h3>
 
 **Aplicações e Dados**
 
