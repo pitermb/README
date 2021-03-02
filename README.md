@@ -17,7 +17,7 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Node](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=express)
+  ![Node](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=nodejs)
  
 **Utilidades**
 
