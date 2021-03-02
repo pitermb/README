@@ -46,6 +46,19 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Piter Merlo Bruner](https://img.shields.io/badge/-Piter Merlo Bruner-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piter-merlo-bruner/)](https://www.linkedin.com/in/piter-merlo-bruner/)
-[![Gmail Badge](https://img.shields.io/badge/-merlobruner@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:merlobruner@gmail.com)](mailto:merlobruner@gmail.com)
-[![GitHub: Piter Merlo Bruner]( https://img.shields.io/github/followers/pitermb?label=follow&style=social)](github.com/pitermb)
+<p align="left">
+  <a href="mailto:melobruner@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:melobruner@gmail.com" /></a>
+
+  <a href="https://www.linkedin.com/in/piter-merlo-bruner/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piter-merlo-bruner/" /></a>
+
+  <a href="https://api.whatsapp.com/send?phone=5547992422002" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5547992422002"/></a>
+
+  <a href="https://www.facebook.com/merlobruner/" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/merlobruner/"/></a>
+
+  <a href="https://www.instagram.com/_pitermb_/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/_pitermb_/"/></a>
+</p>  
