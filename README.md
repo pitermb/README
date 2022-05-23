@@ -4,8 +4,8 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias <br/> Desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **ANALISE E DESENVOLVIMENTO DE SISTEMAS** <br/> <a href="https://www.unicesumar.edu.br">UNICESUMAR</a>.
-- 💼 &nbsp; Procurando emprego como <br/> **FRONT-END/BACK-END/FULLSTACK**
-- 🌱 &nbsp; Aprendendo mais sobre <br/> **JAVASCRIPT/REACT/NODEJS**.
+- 💼 &nbsp; Atualmente empregado como <br/> **DEV WEB FRONT-END**
+- 🌱 &nbsp; Aprendendo mais sobre <br/> **JAVASCRIPT/REACTJS/TYPESCRIPT**.
 
 <h3> :rocket: &nbsp;Minhas Skills</h3>
 
