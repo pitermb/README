@@ -26,6 +26,7 @@
   ![eslint](https://img.shields.io/badge/-ESLint-333333?style=flat&logo=eslint)
   ![axios](https://img.shields.io/badge/-Axios-333333?style=flat&logo=axios)
   ![precommit](https://img.shields.io/badge/-PreCommit-333333?style=flat&logo=precommit)
+  ![Node](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=node.js)
   <br/>
   ![html5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
   ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
@@ -34,7 +35,7 @@
   <br/>
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
-  ![Node](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=node.js)
+  ![celery](https://img.shields.io/badge/-Celery-333333?style=flat&logo=celery)
   <br/>
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![postgresql](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
