@@ -15,9 +15,22 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![React](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=react)
   <br/>
+  ![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite)
+  ![reactquery](https://img.shields.io/badge/-ReactQuery-333333?style=flat&logo=reactquery)
+  ![reactrouter](https://img.shields.io/badge/-ReactRouter-333333?style=flat&logo=reactrouter)
+  <br/>
+  ![styledcomponents](https://img.shields.io/badge/-StyledComponents-333333?style=flat&logo=styledcomponents)
+  ![prettier](https://img.shields.io/badge/-Prettier-333333?style=flat&logo=prettier)
+  ![reacthookform](https://img.shields.io/badge/-ReactHookForm-333333?style=flat&logo=reacthookform)
+  <br/>
+  ![eslint](https://img.shields.io/badge/-ESLint-333333?style=flat&logo=eslint)
+  ![axios](https://img.shields.io/badge/-Axios-333333?style=flat&logo=axios)
+  ![precommit](https://img.shields.io/badge/-PreCommit-333333?style=flat&logo=precommit)
+  <br/>
   ![html5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
   ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
   ![Sass](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)
+  ![mui](https://img.shields.io/badge/-MaterialUI-333333?style=flat&logo=mui)
   <br/>
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
@@ -44,6 +57,7 @@
 
 **Ferramentas de Desenvolvimento**
 
+  ![linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=007ACC)
   ![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
